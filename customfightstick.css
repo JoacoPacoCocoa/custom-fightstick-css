@@ -1,0 +1,793 @@
+body { background-color: rgba(0, 0, 0, 0); margin: 0px auto; overflow: hidden; }
+
+.fight-stick .x {
+top: 185px;
+left: 565px;
+background: url("https://imgur.com/xwCaQWn.png") 0% 0% / cover;
+visibility: visible;
+width: 150px;
+height: 150px;
+border: 0px solid rgb(51, 51, 51);
+border-radius: 0px;
+background-position-y: 0%;
+background-image: url("https://imgur.com/xwCaQWn.png");
+background-size: cover;
+background-repeat: repeat;
+background-image: 0% 0%;
+border-radius: 0px;
+border-color: rgb(51, 51, 51);
+--text-color: "";
+--text-font-size: "";
+--text-stroke-color: "";
+--text-stroke-width: "";
+--text-content: "";
+--text-font-family: Helvetica Neue LT Pro;
+}
+
+.fight-stick .y {
+top: 115px;
+left: 715px;
+background: url("https://imgur.com/xwCaQWn.png") 0% 0% / cover;
+visibility: visible;
+width: 150px;
+height: 150px;
+border: 0px solid rgb(51, 51, 51);
+border-radius: 0px;
+background-position-y: 0%;
+background-image: url("https://imgur.com/xwCaQWn.png");
+background-size: cover;
+background-repeat: repeat;
+background-image: 0% 0%;
+border-radius: 0px;
+border-color: rgb(51, 51, 51);
+--text-color: "";
+--text-font-size: "";
+--text-stroke-color: "";
+--text-stroke-width: "";
+--text-content: "";
+--text-font-family: Helvetica Neue LT Pro;
+}
+
+.fight-stick .a {
+top: 345px;
+left: 565px;
+background: url("https://imgur.com/xwCaQWn.png") 0% 0% / cover;
+visibility: visible;
+width: 150px;
+height: 150px;
+border: 0px solid rgb(51, 51, 51);
+border-radius: 0px;
+background-position-y: 0%;
+background-image: url("https://imgur.com/xwCaQWn.png");
+background-size: cover;
+background-repeat: repeat;
+background-image: 0% 0%;
+border-radius: 0px;
+border-color: rgb(51, 51, 51);
+--text-color: "";
+--text-font-size: "";
+--text-stroke-color: "";
+--text-stroke-width: "";
+--text-content: "";
+--text-font-family: Helvetica Neue LT Pro;
+}
+
+.fight-stick .b {
+top: 275px;
+left: 715px;
+background: url("https://imgur.com/xwCaQWn.png") 0% 0% / cover;
+visibility: visible;
+width: 150px;
+height: 150px;
+border: 0px solid rgb(51, 51, 51);
+border-radius: 0px;
+background-position-y: 0%;
+background-image: url("https://imgur.com/xwCaQWn.png");
+background-size: cover;
+background-repeat: repeat;
+background-image: 0% 0%;
+border-radius: 0px;
+border-color: rgb(51, 51, 51);
+--text-color: "";
+--text-font-size: "";
+--text-stroke-color: "";
+--text-stroke-width: "";
+--text-content: "";
+--text-font-family: Helvetica Neue LT Pro;
+}
+
+.fight-stick .bumper.right {
+top: 145px;
+left: 875px;
+background: url("https://imgur.com/xwCaQWn.png") 0% 0% / cover;
+visibility: visible;
+width: 150px;
+height: 150px;
+border: 0px solid rgb(51, 51, 51);
+border-radius: 0px;
+background-position-y: 0%;
+background-image: url("https://imgur.com/xwCaQWn.png");
+background-size: cover;
+background-repeat: repeat;
+background-image: 0% 0%;
+border-radius: 0px;
+border-color: rgb(51, 51, 51);
+--text-color: "";
+--text-font-size: "";
+--text-stroke-color: "";
+--text-stroke-width: "";
+--text-content: "";
+--text-font-family: Helvetica Neue LT Pro;
+}
+
+.fight-stick .bumper.left {
+top: 185px;
+left: 1035px;
+background: url("https://imgur.com/xwCaQWn.png") 0% 0% / cover;
+visibility: visible;
+width: 150px;
+height: 150px;
+border: 0px solid rgb(51, 51, 51);
+border-radius: 0px;
+background-position-y: 0%;
+background-image: url("https://imgur.com/xwCaQWn.png");
+background-size: cover;
+background-repeat: repeat;
+background-image: 0% 0%;
+border-radius: 0px;
+border-color: rgb(51, 51, 51);
+--text-color: "";
+--text-font-size: "";
+--text-stroke-color: "";
+--text-stroke-width: "";
+--text-content: "";
+--text-font-family: Helvetica Neue LT Pro;
+}
+
+.fight-stick .trigger-button.right {
+top: 305px;
+left: 875px;
+background: url("https://imgur.com/xwCaQWn.png") 0% 0% / cover;
+visibility: visible;
+width: 150px;
+height: 150px;
+border: 0px solid rgb(51, 51, 51);
+border-radius: 0px;
+background-position-y: 0%;
+background-image: url("https://imgur.com/xwCaQWn.png");
+background-size: cover;
+background-repeat: repeat;
+background-image: 0% 0%;
+border-radius: 0px;
+border-color: rgb(51, 51, 51);
+--text-color: "";
+--text-font-size: "";
+--text-stroke-color: "";
+--text-stroke-width: "";
+--text-content: "";
+--text-font-family: Helvetica Neue LT Pro;
+}
+
+.fight-stick .trigger-button.left {
+top: 345px;
+left: 1035px;
+background: url("https://imgur.com/xwCaQWn.png") 0% 0% / cover;
+visibility: visible;
+width: 150px;
+height: 150px;
+border: 0px solid rgb(51, 51, 51);
+border-radius: 0px;
+background-position-y: 0%;
+background-image: url("https://imgur.com/xwCaQWn.png");
+background-size: cover;
+background-repeat: repeat;
+background-image: 0% 0%;
+border-radius: 0px;
+border-color: rgb(51, 51, 51);
+--text-color: "";
+--text-font-size: "";
+--text-stroke-color: "";
+--text-stroke-width: "";
+--text-content: "";
+--text-font-family: Helvetica Neue LT Pro;
+}
+
+.fight-stick .face.left {
+top: 210px;
+left: 125px;
+background: rgb(51, 51, 51) 50% 50% / 175px no-repeat;
+visibility: hidden;
+width: 150px;
+height: 150px;
+border: 10px solid rgb(0, 0, 0);
+border-radius: 100%;
+background-position-y: 50%;
+background-image: none;
+background-size: 175px;
+background-repeat: no-repeat;
+background-image: 50% 50%;
+border-radius: 100%;
+border-color: rgb(0, 0, 0);
+--text-color: #ffffff;
+--text-font-size: 62px;
+--text-stroke-color: #000000;
+--text-stroke-width: 4px;
+--text-content: "";
+--text-font-family: "Helvetica Neue LT Pro";
+}
+
+.fight-stick .face.down {
+top: 290px;
+left: 165px;
+background: rgb(51, 51, 51) 50% 50% / 175px no-repeat;
+visibility: hidden;
+width: 150px;
+height: 150px;
+border: 10px solid rgb(0, 0, 0);
+border-radius: 100%;
+background-position-y: 50%;
+background-image: none;
+background-size: 175px;
+background-repeat: no-repeat;
+background-image: 50% 50%;
+border-radius: 100%;
+border-color: rgb(0, 0, 0);
+--text-color: #ffffff;
+--text-font-size: 62px;
+--text-stroke-color: #000000;
+--text-stroke-width: 4px;
+--text-content: "";
+--text-font-family: "Helvetica Neue LT Pro";
+}
+
+.fight-stick .face.right {
+top: 290px;
+left: 425px;
+background: rgb(51, 51, 51) 50% 50% / 175px no-repeat;
+visibility: hidden;
+width: 150px;
+height: 150px;
+border: 10px solid rgb(0, 0, 0);
+border-radius: 100%;
+background-position-y: 50%;
+background-image: none;
+background-size: 175px;
+background-repeat: no-repeat;
+background-image: 50% 50%;
+border-radius: 100%;
+border-color: rgb(0, 0, 0);
+--text-color: #ffffff;
+--text-font-size: 62px;
+--text-stroke-color: #000000;
+--text-stroke-width: 4px;
+--text-content: "";
+--text-font-family: "Helvetica Neue LT Pro";
+}
+
+.fight-stick .face.up {
+top: 520px;
+left: 500px;
+background: rgb(51, 51, 51) 50% 50% / 175px no-repeat;
+visibility: hidden;
+width: 150px;
+height: 150px;
+border: 10px solid rgb(0, 0, 0);
+border-radius: 100%;
+background-position-y: 50%;
+background-image: none;
+background-size: 175px;
+background-repeat: no-repeat;
+background-image: 50% 50%;
+border-radius: 100%;
+border-color: rgb(0, 0, 0);
+--text-color: #ffffff;
+--text-font-size: 62px;
+--text-stroke-color: #000000;
+--text-stroke-width: 4px;
+--text-content: "";
+--text-font-family: "Helvetica Neue LT Pro";
+}
+
+.fight-stick .start {
+top: 80px;
+left: 1024px;
+background: url("https://i.imgur.com/pgusr2K.png") 0% 0% / cover;
+visibility: visible;
+width: 100px;
+height: 100px;
+border: 0px solid rgb(51, 51, 51);
+border-radius: 0px;
+background-position-y: 0%;
+background-image: url("https://i.imgur.com/pgusr2K.png");
+background-size: cover;
+background-repeat: repeat;
+background-image: 0% 0%;
+border-radius: 0px;
+border-color: rgb(51, 51, 51);
+--text-color: "";
+--text-font-size: "";
+--text-stroke-color: "";
+--text-stroke-width: "";
+--text-content: "";
+--text-font-family: Helvetica Neue LT Pro;
+}
+
+.fight-stick .back {
+top: 85px;
+left: 360px;
+background: url("https://i.imgur.com/pgusr2K.png") 0% 0% / cover;
+visibility: visible;
+width: 100px;
+height: 100px;
+border: 0px solid rgb(51, 51, 51);
+border-radius: 0px;
+background-position-y: 0%;
+background-image: url("https://i.imgur.com/pgusr2K.png");
+background-size: cover;
+background-repeat: repeat;
+background-image: 0% 0%;
+border-radius: 0px;
+border-color: rgb(51, 51, 51);
+--text-color: "";
+--text-font-size: "";
+--text-stroke-color: "";
+--text-stroke-width: "";
+--text-content: "";
+--text-font-family: Helvetica Neue LT Pro;
+}
+
+.fight-stick .stick.left {
+top: 475px;
+left: 295px;
+background: rgb(51, 51, 51) 50% 50% / 175px no-repeat;
+visibility: hidden;
+width: 150px;
+height: 150px;
+border: 10px solid rgb(0, 0, 0);
+border-radius: 100%;
+background-position-y: 50%;
+background-image: none;
+background-size: 175px;
+background-repeat: no-repeat;
+background-image: 50% 50%;
+border-radius: 100%;
+border-color: rgb(0, 0, 0);
+--text-color: #ffffff;
+--text-font-size: 62px;
+--text-stroke-color: #000000;
+--text-stroke-width: 4px;
+--text-content: "";
+--text-font-family: "Helvetica Neue LT Pro";
+}
+
+.fight-stick .stick.right {
+top: 475px;
+left: 705px;
+background: rgb(51, 51, 51) 50% 50% / 175px no-repeat;
+visibility: hidden;
+width: 150px;
+height: 150px;
+border: 10px solid rgb(0, 0, 0);
+border-radius: 100%;
+background-position-y: 50%;
+background-image: none;
+background-size: 175px;
+background-repeat: no-repeat;
+background-image: 50% 50%;
+border-radius: 100%;
+border-color: rgb(0, 0, 0);
+--text-color: #ffffff;
+--text-font-size: 62px;
+--text-stroke-color: #000000;
+--text-stroke-width: 4px;
+--text-content: "";
+--text-font-family: "Helvetica Neue LT Pro";
+}
+
+.fight-stick .x.pressed {
+top: 185px;
+left: 565px;
+background: url("https://imgur.com/xwCaQWn.png") 0% 100% / cover;
+visibility: visible;
+width: 150px;
+height: 150px;
+border: 0px solid rgb(51, 51, 51);
+border-radius: 0px;
+background-position-y: 100%;
+background-image: url("https://imgur.com/xwCaQWn.png");
+background-size: cover;
+background-repeat: repeat;
+background-image: 0% 100%;
+border-radius: 0px;
+border-color: rgb(51, 51, 51);
+--text-color: "";
+--text-font-size: "";
+--text-stroke-color: "";
+--text-stroke-width: "";
+--text-content: "";
+--text-font-family: Helvetica Neue LT Pro;
+}
+
+.fight-stick .y.pressed {
+top: 115px;
+left: 715px;
+background: url("https://imgur.com/xwCaQWn.png") 0% 100% / cover;
+visibility: visible;
+width: 150px;
+height: 150px;
+border: 0px solid rgb(51, 51, 51);
+border-radius: 0px;
+background-position-y: 100%;
+background-image: url("https://imgur.com/xwCaQWn.png");
+background-size: cover;
+background-repeat: repeat;
+background-image: 0% 100%;
+border-radius: 0px;
+border-color: rgb(51, 51, 51);
+--text-color: "";
+--text-font-size: "";
+--text-stroke-color: "";
+--text-stroke-width: "";
+--text-content: "";
+--text-font-family: Helvetica Neue LT Pro;
+}
+
+.fight-stick .a.pressed {
+top: 345px;
+left: 565px;
+background: url("https://imgur.com/xwCaQWn.png") 0% 100% / cover;
+visibility: visible;
+width: 150px;
+height: 150px;
+border: 0px solid rgb(51, 51, 51);
+border-radius: 0px;
+background-position-y: 100%;
+background-image: url("https://imgur.com/xwCaQWn.png");
+background-size: cover;
+background-repeat: repeat;
+background-image: 0% 100%;
+border-radius: 0px;
+border-color: rgb(51, 51, 51);
+--text-color: "";
+--text-font-size: "";
+--text-stroke-color: "";
+--text-stroke-width: "";
+--text-content: "";
+--text-font-family: Helvetica Neue LT Pro;
+}
+
+.fight-stick .b.pressed {
+top: 275px;
+left: 715px;
+background: url("https://imgur.com/xwCaQWn.png") 0% 100% / cover;
+visibility: visible;
+width: 150px;
+height: 150px;
+border: 0px solid rgb(51, 51, 51);
+border-radius: 0px;
+background-position-y: 100%;
+background-image: url("https://imgur.com/xwCaQWn.png");
+background-size: cover;
+background-repeat: repeat;
+background-image: 0% 100%;
+border-radius: 0px;
+border-color: rgb(51, 51, 51);
+--text-color: "";
+--text-font-size: "";
+--text-stroke-color: "";
+--text-stroke-width: "";
+--text-content: "";
+--text-font-family: Helvetica Neue LT Pro;
+}
+
+.fight-stick .bumper.right.pressed {
+top: 145px;
+left: 875px;
+background: url("https://imgur.com/xwCaQWn.png") 0% 100% / cover;
+visibility: visible;
+width: 150px;
+height: 150px;
+border: 0px solid rgb(51, 51, 51);
+border-radius: 0px;
+background-position-y: 100%;
+background-image: url("https://imgur.com/xwCaQWn.png");
+background-size: cover;
+background-repeat: repeat;
+background-image: 0% 100%;
+border-radius: 0px;
+border-color: rgb(51, 51, 51);
+--text-color: "";
+--text-font-size: "";
+--text-stroke-color: "";
+--text-stroke-width: "";
+--text-content: "";
+--text-font-family: Helvetica Neue LT Pro;
+}
+
+.fight-stick .bumper.left.pressed {
+top: 185px;
+left: 1035px;
+background: url("https://imgur.com/xwCaQWn.png") 0% 100% / cover;
+visibility: visible;
+width: 150px;
+height: 150px;
+border: 0px solid rgb(51, 51, 51);
+border-radius: 0px;
+background-position-y: 100%;
+background-image: url("https://imgur.com/xwCaQWn.png");
+background-size: cover;
+background-repeat: repeat;
+background-image: 0% 100%;
+border-radius: 0px;
+border-color: rgb(51, 51, 51);
+--text-color: "";
+--text-font-size: "";
+--text-stroke-color: "";
+--text-stroke-width: "";
+--text-content: "";
+--text-font-family: Helvetica Neue LT Pro;
+}
+
+.fight-stick .trigger-button.right.pressed {
+top: 305px;
+left: 875px;
+background: url("https://imgur.com/xwCaQWn.png") 0% 100% / cover;
+visibility: visible;
+width: 150px;
+height: 150px;
+border: 0px solid rgb(51, 51, 51);
+border-radius: 0px;
+background-position-y: 100%;
+background-image: url("https://imgur.com/xwCaQWn.png");
+background-size: cover;
+background-repeat: repeat;
+background-image: 0% 100%;
+border-radius: 0px;
+border-color: rgb(51, 51, 51);
+--text-color: "";
+--text-font-size: "";
+--text-stroke-color: "";
+--text-stroke-width: "";
+--text-content: "";
+--text-font-family: Helvetica Neue LT Pro;
+}
+
+.fight-stick .trigger-button.left.pressed {
+top: 345px;
+left: 1035px;
+background: url("https://imgur.com/xwCaQWn.png") 0% 100% / cover;
+visibility: visible;
+width: 150px;
+height: 150px;
+border: 0px solid rgb(51, 51, 51);
+border-radius: 0px;
+background-position-y: 100%;
+background-image: url("https://imgur.com/xwCaQWn.png");
+background-size: cover;
+background-repeat: repeat;
+background-image: 0% 100%;
+border-radius: 0px;
+border-color: rgb(51, 51, 51);
+--text-color: "";
+--text-font-size: "";
+--text-stroke-color: "";
+--text-stroke-width: "";
+--text-content: "";
+--text-font-family: Helvetica Neue LT Pro;
+}
+
+.fight-stick .face.left.pressed {
+top: 210px;
+left: 125px;
+background: rgb(255, 255, 255) 50% 50% / 175px no-repeat;
+visibility: hidden;
+width: 150px;
+height: 150px;
+border: 10px solid rgb(0, 0, 0);
+border-radius: 100%;
+background-position-y: 50%;
+background-image: none;
+background-size: 175px;
+background-repeat: no-repeat;
+background-image: 50% 50%;
+border-radius: 100%;
+border-color: rgb(0, 0, 0);
+--text-color: #ffffff;
+--text-font-size: 62px;
+--text-stroke-color: #000000;
+--text-stroke-width: 4px;
+--text-content: "";
+--text-font-family: "Helvetica Neue LT Pro";
+}
+
+.fight-stick .face.down.pressed {
+top: 290px;
+left: 165px;
+background: rgb(255, 255, 255) 50% 50% / 175px no-repeat;
+visibility: hidden;
+width: 150px;
+height: 150px;
+border: 10px solid rgb(0, 0, 0);
+border-radius: 100%;
+background-position-y: 50%;
+background-image: none;
+background-size: 175px;
+background-repeat: no-repeat;
+background-image: 50% 50%;
+border-radius: 100%;
+border-color: rgb(0, 0, 0);
+--text-color: #ffffff;
+--text-font-size: 62px;
+--text-stroke-color: #000000;
+--text-stroke-width: 4px;
+--text-content: "";
+--text-font-family: "Helvetica Neue LT Pro";
+}
+
+.fight-stick .face.right.pressed {
+top: 290px;
+left: 425px;
+background: rgb(255, 255, 255) 50% 50% / 175px no-repeat;
+visibility: hidden;
+width: 150px;
+height: 150px;
+border: 10px solid rgb(0, 0, 0);
+border-radius: 100%;
+background-position-y: 50%;
+background-image: none;
+background-size: 175px;
+background-repeat: no-repeat;
+background-image: 50% 50%;
+border-radius: 100%;
+border-color: rgb(0, 0, 0);
+--text-color: #ffffff;
+--text-font-size: 62px;
+--text-stroke-color: #000000;
+--text-stroke-width: 4px;
+--text-content: "";
+--text-font-family: "Helvetica Neue LT Pro";
+}
+
+.fight-stick .face.up.pressed {
+top: 520px;
+left: 500px;
+background: rgb(255, 255, 255) 50% 50% / 175px no-repeat;
+visibility: hidden;
+width: 150px;
+height: 150px;
+border: 10px solid rgb(0, 0, 0);
+border-radius: 100%;
+background-position-y: 50%;
+background-image: none;
+background-size: 175px;
+background-repeat: no-repeat;
+background-image: 50% 50%;
+border-radius: 100%;
+border-color: rgb(0, 0, 0);
+--text-color: #ffffff;
+--text-font-size: 62px;
+--text-stroke-color: #000000;
+--text-stroke-width: 4px;
+--text-content: "";
+--text-font-family: "Helvetica Neue LT Pro";
+}
+
+.fight-stick .start.pressed {
+top: 80px;
+left: 1024px;
+background: url("https://i.imgur.com/pgusr2K.png") 0% 100% / cover;
+visibility: visible;
+width: 100px;
+height: 100px;
+border: 0px solid rgb(51, 51, 51);
+border-radius: 0px;
+background-position-y: 100%;
+background-image: url("https://i.imgur.com/pgusr2K.png");
+background-size: cover;
+background-repeat: repeat;
+background-image: 0% 100%;
+border-radius: 0px;
+border-color: rgb(51, 51, 51);
+--text-color: "";
+--text-font-size: "";
+--text-stroke-color: "";
+--text-stroke-width: "";
+--text-content: "";
+--text-font-family: Helvetica Neue LT Pro;
+}
+
+.fight-stick .back.pressed {
+top: 85px;
+left: 360px;
+background: url("https://i.imgur.com/pgusr2K.png") 0% 100% / cover;
+visibility: visible;
+width: 100px;
+height: 100px;
+border: 0px solid rgb(51, 51, 51);
+border-radius: 0px;
+background-position-y: 100%;
+background-image: url("https://i.imgur.com/pgusr2K.png");
+background-size: cover;
+background-repeat: repeat;
+background-image: 0% 100%;
+border-radius: 0px;
+border-color: rgb(51, 51, 51);
+--text-color: "";
+--text-font-size: "";
+--text-stroke-color: "";
+--text-stroke-width: "";
+--text-content: "";
+--text-font-family: Helvetica Neue LT Pro;
+}
+
+.fight-stick .stick.left.pressed {
+top: 475px;
+left: 295px;
+background: rgb(255, 255, 255) 50% 50% / 175px no-repeat;
+visibility: hidden;
+width: 150px;
+height: 150px;
+border: 10px solid rgb(0, 0, 0);
+border-radius: 100%;
+background-position-y: 50%;
+background-image: none;
+background-size: 175px;
+background-repeat: no-repeat;
+background-image: 50% 50%;
+border-radius: 100%;
+border-color: rgb(0, 0, 0);
+--text-color: #ffffff;
+--text-font-size: 62px;
+--text-stroke-color: #000000;
+--text-stroke-width: 4px;
+--text-content: "";
+--text-font-family: "Helvetica Neue LT Pro";
+}
+
+.fight-stick .stick.right.pressed {
+top: 475px;
+left: 705px;
+background: rgb(255, 255, 255) 50% 50% / 175px no-repeat;
+visibility: hidden;
+width: 150px;
+height: 150px;
+border: 10px solid rgb(0, 0, 0);
+border-radius: 100%;
+background-position-y: 50%;
+background-image: none;
+background-size: 175px;
+background-repeat: no-repeat;
+background-image: 50% 50%;
+border-radius: 100%;
+border-color: rgb(0, 0, 0);
+--text-color: #ffffff;
+--text-font-size: 62px;
+--text-stroke-color: #000000;
+--text-stroke-width: 4px;
+--text-content: "";
+--text-font-family: "Helvetica Neue LT Pro";
+}
+
+.fight-stick .fstick {
+top: 250px;
+left: 350px;
+background: url("https://imgur.com/7bIsLfh.png") 0% 0% / cover;
+visibility: visible;
+width: 150px;
+height: 150px;
+border: 0px rgb(51, 51, 51);
+border-radius: 0px;
+background-position-y: 0%;
+background-image: url("https://imgur.com/7bIsLfh.png");
+background-size: cover;
+background-repeat: repeat;
+background-image: 0% 0%;
+border-radius: 0px;
+border-color: rgb(51, 51, 51);
+--text-color: ;
+--text-font-size: ;
+--text-stroke-color: ;
+--text-stroke-width: ;
+--text-content: ;
+--text-font-family: ;
+}
